@@ -87,6 +87,12 @@ cloud-persistence-techniques/
 | Use Alternate Authentication Material | T1550     |
 
 ---
+## MITRE ATT&CK Mapping
+
+This research maps common cloud persistence mechanisms to MITRE ATT&CK techniques frequently observed in cloud and identity-focused intrusions.
+
+![Cloud Persistence ATT&CK Mapping](screenshots/attack-mapping.png)
+
 
 ## Detection Focus Areas
 
