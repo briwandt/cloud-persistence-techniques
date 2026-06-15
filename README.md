@@ -129,6 +129,11 @@ The project documents detection opportunities for:
 
 ---
 
+## Architecture Diagram
+
+![Cloud Persistence Architecture](screenshots/cloud-persistence-architecture.png)
+
+
 ## Key Research Findings
 
 Cloud persistence differs from traditional persistence because attackers frequently abuse legitimate identity and access management features rather than deploying malware.
