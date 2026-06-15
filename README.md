@@ -150,6 +150,6 @@ Identity systems have become one of the most important attack surfaces in modern
 
 ## Author
 
-Brianna Morgan
+Brianna Wandt
 
 Cloud Security | Identity Security | Threat Intelligence | Threat Research
