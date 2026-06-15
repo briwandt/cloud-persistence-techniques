@@ -63,11 +63,16 @@ cloud-persistence-techniques/
 ├── README.md
 ├── screenshots/
 ├── docs/
-│   ├── azure-persistence.md
-│   ├── aws-persistence.md
-│   ├── gcp-persistence.md
-│   ├── detection-guide.md
-│   └── threat-research-notes.md
+│   ├── 
+azure-persistence.md
+│   ├── 
+aws-persistence.md
+│   ├── 
+gcp-persistence.md
+│   ├── 
+detection-guide.md
+│   └── 
+threat-research-notes.md
 └── detections/
 ```
 
