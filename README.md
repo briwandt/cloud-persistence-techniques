@@ -107,19 +107,25 @@ The project documents detection opportunities for:
 
 ## Screenshots
 
-### Microsoft Entra ID
+### App Registration Overview
 
-* App Registration Overview
-* Client Secret Creation
-* Graph Delegated Permissions
-* Admin Consent Granted
+![App Registration Overview](screenshots/app-registration-overview.png)
 
-### Keycloak Identity Lab
+### Client Secret Creation
 
-* Realm Configuration
-* OIDC Client Configuration
-* Role Mappings
-* JWT Token Analysis
+![Client Secret Creation](screenshots/client-secret-created.png)
+
+### Graph Delegated Permissions
+
+![Graph Delegated Permissions](screenshots/graph-delegated-permissions.png)
+
+### API Permissions
+
+![API Permissions](screenshots/api-permissions-default.png)
+
+### Admin Consent Granted
+
+![Admin Consent Granted](screenshots/admin-consent-granted.png)
 
 ---
 
